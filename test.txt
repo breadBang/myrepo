@@ -1,0 +1,2 @@
+using the sqlplus spool command
+심심하다 재임스 놀아줘\
